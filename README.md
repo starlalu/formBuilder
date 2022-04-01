@@ -62,9 +62,11 @@ Dynamically Create  Forms...
    
    ### Pending from my Side 
    
-     States of the Form identifying area is pending 
+     States of the Form identifying module is pending 
      
-     I had some plans to improve the design side
+     I had planned to improve the design side 
+     
+     I had planned to add  some extra validations to the Form Defining Page 
      
      
    
