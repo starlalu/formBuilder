@@ -58,7 +58,7 @@ Dynamically Create  Forms...
    
    ### Sample Database
    
-   root/database/form_builder_hulk_app
+   root/database/form_builder_hulk_app.sql
    
    ### Pending from my Side 
    
