@@ -21,45 +21,59 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## Tech Stacks Used
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+   1.LARAVEL 8.83.6
+   
+   2. PHP 7.4
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1500 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+   3.MYSQL 5.8
+   
+   4.BOOTSTRAP 5
+   
+   5.JQUERY 3.6.0 
 
-## Laravel Sponsors
+## Project Setup
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+    Install WAMP server (includes PHP ,MYSQL,APACHE) / Separtley installed PHP,MYSQL,APACHE
+     
+    php artisan serve command run through  command line from the root of the project
+  
 
-### Premium Partners
+### Project Approached
+  
+   1.Visualise UI implimentation 
+   
+   2.Designed Database
+   
+   3.Seprated each tasks are each module
+   
+   4.list out some HTML inputs and check its validation / dynamic creation 
+   
+   5.Based on the Database relation make laravel eloquent relation
+   
+   6.Check Whether the possibilities for using common functionality from frontend /Backend
+   
+   ### Most Liked 
+   
+   Everything is liked but it was quite difficult to dynamically create form fields and their display.
+   buts it gave me a new experience on the Front End Side and Backend side and its sharpened my skills also
+   
+   ### Nothing is unliked
+   
+   ## Estimate
+   
+   It took  around 14 hours.. but it was quite difficult for me because task attended days are working days (currently I am working for one company) for me
+   
+   ## Pending from my Side 
+   
+     States of the Form identifying area is pending 
+     
+     I had some plans to improve the design side
+     
+     
+   
+   
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
 
-## Contributing
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-"# formBuilder" 
