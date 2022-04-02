@@ -27,7 +27,11 @@ Dynamically Create  Forms...
 ## Project Setup
 
     Install WAMP server (includes PHP ,MYSQL,APACHE) / Separtley installed PHP,MYSQL,APACHE
-     
+    
+    Database import
+
+     Edit / reuse conection settings of the .env file file.
+
     php artisan serve command run through  command line from the root of the project
   
 
@@ -43,7 +47,7 @@ Dynamically Create  Forms...
    
    5.Based on the Database relation make laravel eloquent relation
    
-   6.Check Whether the possibilities for using common functionality from frontend /Backend
+   6.Check Whether the possibilities for using common functionality in frontend /Backend
    
    ### Most Liked 
    
@@ -66,7 +70,8 @@ Dynamically Create  Forms...
      
      I had planned to improve the design side 
      
-     I had planned to add  some extra validations to the Form Defining Page 
+     I had planned to add  some extra validations to the Form Defining Page
+    
      
      
    
